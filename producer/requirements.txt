@@ -1,0 +1,4 @@
+kafka-python
+Faker
+pydantic
+python-schema-registry-client
