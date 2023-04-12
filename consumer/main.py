@@ -47,3 +47,4 @@ def consume_messages():
 
 if __name__ == "__main__":
     consume_messages()
+    print("test")
